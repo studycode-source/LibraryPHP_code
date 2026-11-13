@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>SISTEM PENGURUSAN PERPUSTAKAAN SMK DATO'ONN</title>
+<title>SISTEM PERPUSTAKAAN SEKOLAH</title>
 <link rel="stylesheet" type="text/css" href="config/css/PSS.css">
     
    
@@ -14,7 +14,7 @@
 	
 	<main class="menu_content">
 	  <header class="PSS_header">
-		<h1 align="center"><strong>SISTEM PENGURUSAN PERPUSTAKAAN SMK DATO'ONN</strong></h1>
+		<h1 align="center"><strong>SISTEM PERPUSTAKAAN SEKOLAH</strong></h1>
 		</header>
 		<form >
 			
