@@ -41,7 +41,7 @@ include("config.php");
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>SISTEM PENGURUSAN PUSAT SUMBER SMK DATO'ONN - Admin Login-</title>
+  <title>SISTEM PERPUSTKAAN SEKOLAH - Admin Login-</title>
   <link rel="stylesheet" type="text/css" href="config/css/PSS.css">
   <link href="css/bootstrap-4.4.1.css" rel="stylesheet">
 </head>
@@ -49,7 +49,7 @@ include("config.php");
   <div class="bg"></div>
   <main class="menu_content">
     <header class="PSS_header">
-      <h1><strong>SISTEM PENGURUSAN PUSAT SUMBER SMK DATO'ONN</strong></h1>
+      <h1><strong>SISTEM PERPUSTAKAAN SEKOLAH</strong></h1>
     </header>
     <div class="login-container">
       <div class="login-header">Admin Login</div>
