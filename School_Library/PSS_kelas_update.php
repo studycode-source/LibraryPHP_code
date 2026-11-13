@@ -34,7 +34,7 @@ if (isset($_GET['value'])) {
     <div class="bg"></div>
     <main class="menu_content">
         <header class="PSS_header">
-            <h1 align="center"><strong>Laman Utama Pusat Sumber SMK Dato'Onn</strong></h1>
+            <h1 align="center"><strong>Sistem Perpustakaan Sekolah</strong></h1>
         </header>
         <p>
             <form id="form9" name="form9" method="post" enctype="multipart/form-data">
