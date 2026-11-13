@@ -39,7 +39,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>SISTEM PENGURUSAN PUSAT SUMBER SMK DATO'ONN - PSS Login-</title>
+  <title>SISTEM PERPUSTAKAAN SEKOLAH - PSS Login-</title>
   <link rel="stylesheet" type="text/css" href="config/css/PSS.css">
   <link href="css/bootstrap-4.4.1.css" rel="stylesheet">
 </head>
@@ -47,7 +47,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
   <div class="bg"></div>
   <main class="menu_content">
     <header class="PSS_header">
-      <h1><strong>SISTEM PENGURUSAN PUSAT SUMBER SMK DATO'ONN</strong></h1>
+      <h1><strong>SISTEM PERPUSTAKAAN SEKOLAH</strong></h1>
     </header>
     <div class="login-container">
       <div class="login_PSS-header">Pengawas PSS Login</div>
